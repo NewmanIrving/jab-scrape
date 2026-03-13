@@ -41,7 +41,7 @@ story_location: d:/data/SynologyDrive/000-INBOX/project/job_scrape/_bmad-output/
 
 development_status:
   epic-1: in-progress
-  1-1-基于-starter-模板初始化项目骨架: in-progress
+  1-1-基于-starter-模板初始化项目骨架: done
   1-2-手动触发采集任务并生成追溯id: backlog
   1-3-查询任务状态与基础进度: backlog
   1-4-查看任务日志与失败原因: backlog
