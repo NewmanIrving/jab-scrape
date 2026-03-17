@@ -42,10 +42,10 @@ story_location: d:/data/SynologyDrive/000-INBOX/project/job_scrape/_bmad-output/
 development_status:
   epic-1: in-progress
   1-1-基于-starter-模板初始化项目骨架: done
-  1-2-手动触发采集任务并生成追溯id: backlog
-  1-3-查询任务状态与基础进度: backlog
-  1-4-查看任务日志与失败原因: backlog
-  1-5-manual-队列处理重放跳过: backlog
+  1-2-手动触发采集任务并生成追溯id: done
+  1-3-查询任务状态与基础进度: done
+  1-4-查看任务日志与失败原因: done
+  1-5-manual-队列处理-重放-跳过: done
   1-6-7-天滚动成功率监控与阈值告警: backlog
   1-7-基础角色权限控制与未授权拦截: backlog
   epic-1-retrospective: optional
@@ -59,7 +59,7 @@ development_status:
 
   epic-3: backlog
   3-1-规范链接与平台岗位id生成: backlog
-  3-2-首次最近出现与累计出现次数维护: backlog
+  3-2-首次-最近出现与累计出现次数维护: backlog
   3-3-连续未出现与下架判定: backlog
   3-4-记录状态机与-jd-变更判定: backlog
   3-5-关键字段缺失告警与双键追溯: backlog
@@ -68,7 +68,7 @@ development_status:
   epic-3-retrospective: optional
 
   epic-4: backlog
-  4-1-猎聘最小链路采集搜索列表详情: backlog
+  4-1-猎聘最小链路采集-搜索-列表-详情: backlog
   4-2-反爬挑战事件识别与记录: backlog
   4-3-指数退避重试与-manual-兜底: backlog
   epic-4-retrospective: optional
@@ -77,5 +77,5 @@ development_status:
   5-1-白名单与任务参数配置管理: backlog
   5-2-系统级配置与凭据管理: backlog
   5-3-结果筛选与统一查询视图: backlog
-  5-4-csvexceljson-一致导出: backlog
+  5-4-csv-excel-json-一致导出: backlog
   epic-5-retrospective: optional
